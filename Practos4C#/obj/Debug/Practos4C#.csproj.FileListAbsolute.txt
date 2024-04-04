@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Practos4C#\Practos4C#\obj\Debug\Practos4C#.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Practos4C#\Practos4C#\obj\Debug\AuthorizedWindow.g.cs
+C:\Users\Admin\source\repos\Practos4C#\Practos4C#\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\Practos4C#\Practos4C#\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\Practos4C#\Practos4C#\obj\Debug\Practos4C#_MarkupCompile.cache
+C:\Users\Admin\source\repos\Practos4C#\Practos4C#\obj\Debug\Practos4C#_MarkupCompile.lref
